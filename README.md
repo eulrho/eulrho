@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=8000&pause=1000&center=true&vCenter=true&width=800&height=70&lines=Welcom+to+eulrho's+GitHub+)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=8000&pause=1000&center=true&vCenter=true&width=800&height=70&lines=/*+Welcom+to+eulrho's+GitHub+*/)](https://git.io/typing-svg)
 
 </div>
 
